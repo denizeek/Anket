@@ -1,0 +1,11 @@
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\bin\Debug\AnketUygulama.exe.config
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\bin\Debug\AnketUygulama.exe
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\bin\Debug\AnketUygulama.pdb
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.csproj.AssemblyReference.cache
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.csproj.SuggestedBindingRedirects.cache
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.Form1.resources
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.Properties.Resources.resources
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.csproj.GenerateResource.cache
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.csproj.CoreCompileInputs.cache
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.exe
+C:\Users\Berk\source\repos\AnketUygulama\AnketUygulama\obj\Debug\AnketUygulama.pdb
